@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1634674368 source:e:\c++\laboratorium 3\ciag collatz'a\main.cpp
+	<iostream>
+	<cmath>
+	<math.h>
+
