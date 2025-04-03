@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1634663903 source:e:\c++\laboratorium 3\hipoteza collatz’a\main.cpp
+	<iostream>
+	<cmath>
+	<math.h>
+

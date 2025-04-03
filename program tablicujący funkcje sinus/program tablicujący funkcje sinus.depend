@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1634655173 source:e:\c++\laboratorium 3\program tablicuj¹cy funkcje sinus\main.cpp
+	<iostream>
+	<cmath>
+	<math.h>
+	<iomanip>
+
